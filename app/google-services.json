@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1087950521215",
+    "firebase_url": "https://familyexpenses-ee85e.firebaseio.com",
+    "project_id": "familyexpenses-ee85e",
+    "storage_bucket": "familyexpenses-ee85e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087950521215:android:bb13509ed9b9f368fa104a",
+        "android_client_info": {
+          "package_name": "com.example.familyexpenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087950521215-tih5mpfhfmoi5skan26qtv1eri7tlbpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPOlmaJ50sB130BfUmttTqGJyUJf0lpWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087950521215-tih5mpfhfmoi5skan26qtv1eri7tlbpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
